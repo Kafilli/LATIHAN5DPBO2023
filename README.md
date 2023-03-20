@@ -53,6 +53,7 @@ User bisa mengisi data nim, nama, dan nilai yang berupa text field dan kelamin y
 ![JAR FILE](jar-file.png)
 
 **Confirm Delete Data**
+
 ![image](https://user-images.githubusercontent.com/100756191/226260853-a0a43a21-1b4b-4609-8486-271847b7a919.png)
 
 **Tambah Data**
