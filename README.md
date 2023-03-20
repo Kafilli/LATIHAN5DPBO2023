@@ -15,7 +15,6 @@ Download this starter project: [Starter Project](https://drive.google.com/file/d
 
 File README berisi desain program, penjelasan alur, dan dokumentasi saat program dijalankan (screenshot/screen record)
 
-Submit link repository pada form berikut: [Form Pengumpulan](https://forms.gle/rvb1hKxbQVuYNbhKA) 
 
 ## Desain Program
 Terdapat 2 class:
